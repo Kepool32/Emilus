@@ -91,7 +91,7 @@ class UserList extends Component {
                                 </Link>
 
 
-                            />
+
                         </Tooltip>
                         <Tooltip title="Delete">
                             <Button
