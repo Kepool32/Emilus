@@ -1,3 +1,41 @@
+<<<<<<< HEAD
+# Furniture Scheduler
+
+This project is a Furniture Scheduler application built with React. It allows users to manage and arrange furniture objects on a virtual board.
+
+## Installation
+
+To install the application, please follow these steps:
+
+1. Clone the repository: `git clone https://github.com/your-repo.git`
+2. Navigate to the project directory: `cd furniture-scheduler`
+3. Install dependencies using npm with the `--legacy-peer-deps` flag:
+
+> Note: The `--legacy-peer-deps` flag is required due to potential conflicts between package versions.
+
+## Usage
+
+1. After the installation, run the application with the following command:
+2. Open your browser and visit `http://localhost:3000` to access the Furniture Scheduler.
+
+In the application, you can perform the following actions:
+
+- Drag and drop furniture objects from the object list onto the board.
+- Move and arrange the furniture objects on the board by dragging them.
+- View details about the client by clicking the "View" button.
+- Delete furniture objects by clicking the "Delete" button.
+- Access the Scheduler menu to view available furniture options and select them. Selected furniture objects are automatically removed from the list.
+- Save the layout of the board, including the positions of tables and chairs, to a JSON file for future reference. The saved file can be opened later.
+
+## Deployment
+
+The application is deployed using Firebase. You can access the live version by visiting the following URL: [Furniture Scheduler](https://your-firebase-project.firebaseapp.com)
+
+## Additional Notes
+
+Please make sure to provide the instructions in English for better readability and understanding.
+
+=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +106,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+>>>>>>> dd1f28b88cecc27e19661a10e562206863e76dbb
