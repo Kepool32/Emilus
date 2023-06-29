@@ -29,7 +29,7 @@ In the application, you can perform the following actions:
 
 ## Deployment
 
-The application is deployed using Firebase. You can access the live version by visiting the following URL: [Furniture Scheduler](https://your-firebase-project.firebaseapp.com)
+The application is deployed using Firebase. You can access the live version by visiting the following URL:  https://create-react-app-3212332.web.app 
 
 ## Additional Notes
 
